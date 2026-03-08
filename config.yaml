@@ -1,0 +1,31 @@
+watch_directory: ~/Downloads
+output_directory: ~/SmartVault/Organized
+dry_run: false
+duplicate_action: report
+log_level: INFO
+log_max_bytes: 5242880
+log_backup_count: 3
+rules:
+  - name: "PDF Documents"
+    extensions: [.pdf]
+    keywords: []
+    destination: Documents/PDFs
+  - name: "Invoice PDFs"
+    extensions: [.pdf]
+    keywords: ["invoice", "receipt", "bill"]
+    destination: Finance/Invoices
+  - name: "Images"
+    extensions: [.jpg, .jpeg, .png, .gif, .webp, .svg]
+    destination: Media/Images/{YYYY}/{MM}
+  - name: "Videos"
+    extensions: [.mp4, .mov, .avi, .mkv]
+    destination: Media/Videos/{YYYY}
+  - name: "Code Files"
+    extensions: [.py, .js, .ts, .html, .css, .json, .yaml, .yml]
+    destination: Code
+  - name: "Archives"
+    extensions: [.zip, .tar, .gz, .rar, .7z]
+    destination: Archives
+  - name: "Old Files"
+    age_days: 365
+    destination: Archive/OldFiles

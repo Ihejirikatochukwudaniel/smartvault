@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SmartVault Report</title>
+  <style>
+    body { background-color:#222; color:#eee; font-family:Arial, sans-serif; }
+    .header { text-align:center; padding:20px; }
+    .card { display:inline-block; background:#333; padding:10px; margin:5px; border-radius:5px; }
+    table { width:100%; border-collapse:collapse; margin-top:20px; }
+    th, td { padding:8px; border:1px solid #444; }
+    tr.green { background-color:#2b4; }
+    tr.yellow { background-color:#bb3; }
+    tr.red { background-color:#b33; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>SmartVault Report</h1>
+    <p>{{ data.run_timestamp.strftime('%Y-%m-%d %H:%M:%S') }} ({{ data.duration_seconds }}s)</p>
+  </div>
+  <div class="cards">
+    <div class="card">Processed: {{ data.files_processed }}</div>
+    <div class="card">Moved: {{ data.files_moved }}</div>
+    <div class="card">Skipped: {{ data.files_skipped }}</div>
+    <div class="card">Errors: {{ data.errors }}</div>
+  </div>
+  {% if data.duplicate_summary %}
+  <div class="duplicates">
+    <h2>Duplicates</h2>
+    <p>Wasted space: {{ data.duplicate_summary.wasted_bytes }} bytes</p>
+  </div>
+  {% endif %}
+  <table>
+    <thead>
+      <tr><th>Source</th><th>Destination</th><th>Action</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+      {% for r in data.organize_results %}
+      <tr class="{% if r.action=='moved' %}green{% elif r.action=='skipped'%}yellow{% else %}red{% endif %}">
+        <td>{{ r.source }}</td>
+        <td>{{ r.destination or '' }}</td>
+        <td>{{ r.action }}</td>
+        <td>{{ 'OK' if r.success else 'ERR' }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>

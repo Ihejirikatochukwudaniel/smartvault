@@ -1,0 +1,759 @@
+[2026-03-08 22:24:37,184] [INFO] [main] 
+  ____                 _   _      _
+ / ___|  ___ _ __ ___ | | | | ___| |_ ___
+ \___ \ / _ \ '_ ` _ \| |_| |/ _ \ __/ _ \
+  ___) |  __/ | | | | |  _  |  __/ ||  __/
+ |____/ \___|_| |_| |_|_| |_|\___|\__\___|
+
+[2026-03-08 22:30:41,348] [INFO] [main] 
+  ____                 _   _      _
+ / ___|  ___ _ __ ___ | | | | ___| |_ ___
+ \___ \ / _ \ '_ ` _ \| |_| |/ _ \ __/ _ \
+  ___) |  __/ | | | | |  _  |  __/ ||  __/
+ |____/ \___|_| |_| |_|_| |_|\___|\__\___|
+
+[2026-03-08 22:30:41,361] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\(69) Pinterest.html -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:30:41,584] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\0e1932348e197fac01b5900281a9f675.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:41,600] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\1000022022 (1).webp -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,608] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\1000022022.webp -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,621] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\11296154_4716573.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,626] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\11663390_20944416.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:41,629] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\11668321_20945194.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:41,635] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\12953779_Jan-Business_team_3 (1) (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,640] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\12953779_Jan-Business_team_3 (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,644] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\13744798_Mar-Business_6.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:41,648] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\1768233232557.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:41,650] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250702_1442_Black Hair Transformation_remix_01jz5nt0d3eybtmfbcvk63rw7e (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,662] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250702_1442_Black Hair Transformation_remix_01jz5nt0d3eybtmfbcvk63rw7e (2).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,662] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250702_1442_Black Hair Transformation_remix_01jz5nt0d3eybtmfbcvk63rw7e.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:30:41,662] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1451_Elegant Ancestral Whisper_simple_compose_01k3v1dp5re9nv1e1yt1457a25.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,662] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1457_Graceful Tribal Elegance_simple_compose_01k3v1r43ae3xbn34vtv95znpn.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,662] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1500_Mystic African Elegance_simple_compose_01k3v1z6cbfavtv31za4mfy2hv.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,677] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1503_Mystical Tribal Portrait_simple_compose_01k3v24fpnfr5ten6xxjejzavj.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,677] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1507_Majestic River Serenade_simple_compose_01k3v2ac1tepp8cq30fnk3z3ym.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,677] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250913_2104_Journey to Confidence_simple_compose_01k52artetf2grx787stwry857.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:41,677] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251009_1018_QuickTask API Banner_simple_compose_01k74457w5e5qrbt9rxzhp6pmg.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,688] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251010_1108_Futuristic AI Personality Match_simple_compose_01k76schwpedcr080rbd5gctpk.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,688] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251011_2206_Lightweight EduTrack API_simple_compose_01k7ahg0h8eqeraevc7arrrt8w.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,688] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251011_2211_AI Task Manager Design_simple_compose_01k7ahs2deezxrqmnbtypczzhs.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,688] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251011_2216_Insta Analytics Powered_simple_compose_01k7aj21cfffgb45y5vvmqh9jx.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,688] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251011_2224_Projects Dashboard Design_simple_compose_01k7ajfjf7er9sehzp3wf0e3gy.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,688] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251013_211608.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,688] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251014_0141_Elegant Web Shopping_simple_compose_01k7g2j6kveaba4b5t6c457kxj.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,703] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251031_1906_Enhanced Code Screen_remix_01k8xq2nc0ezgtsw86fh33pttk.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,703] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251107_1528_Ambient Gaming Setup_simple_compose_01k9fbf5ypfcm8vnc108v7rf2m (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:41,703] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251107_1528_Ambient Gaming Setup_simple_compose_01k9fbf5ypfcm8vnc108v7rf2m.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:41,703] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\2149345111.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:30:41,703] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\2b62fd8321f7441186d1fcad5f640a58.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:41,712] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\325d68dadac72763d00e8d5292d3dadc.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:41,712] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\3371ab0554c737a536a9114fbfda28de.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:41,712] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\34222892-e4df-4e98-8332-63c2a9bf905d (1).jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:41,712] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\34222892-e4df-4e98-8332-63c2a9bf905d.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:41,712] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\35345.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:30:41,712] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\5155720_2672334.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,727] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\5b8c376f-22bf-4e04-b28b-1deadfd3287c (1).jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:41,727] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\5b8c376f-22bf-4e04-b28b-1deadfd3287c.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:41,727] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\6390158-uhd_2160_3840_25fps.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:41,737] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\6743cf0fea0bfa1ec2693e07e7ec54e2.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:41,738] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\7252681-hd_1920_1080_25fps.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:41,738] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\962ede7aaadf9d566510c252b25dcfc0.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:41,738] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\96ebca68e670da4660b050df6b94172b.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:41,738] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\9efc1a30a4b08ae29f4d09fbbce0a617.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\03
+[2026-03-08 22:30:41,753] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\@becominghim.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:41,753] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\A.Knight.of.the.Seven.Kingdoms.S01E05.(THENKIRI.COM).mkv -> C:\Users\USER\SmartVault\Organized\Media\Videos\2026
+[2026-03-08 22:30:41,753] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\A.Knight.of.the.Seven.Kingdoms.S01E06.(THENKIRI.COM).mkv -> C:\Users\USER\SmartVault\Organized\Media\Videos\2026
+[2026-03-08 22:30:41,753] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\a0837e13e4134a8898798d00355d6f5c.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:41,753] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ad54a2736dfe0ba04095858aaf26714f.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:41,763] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\admin dashboard.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,763] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Aesthetic Twitter Header.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,763] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ai tools (1).mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:41,763] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ai tools.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:41,763] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\api pulse architecture (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:41,763] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\api pulse architecture.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:41,778] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\api pulse swagger 2.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:41,778] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\article image.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,778] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Asset 1.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:41,778] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Asset 2 (1).svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:41,788] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Asset 2.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,788] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Asset 3.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:41,788] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\backend.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,788] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Becoming him, the start of a journey (Mobile Video).mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:41,788] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Black Minimalist Corporate Professional Profile LinkedIn Banner (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,788] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Black Minimalist Corporate Professional Profile LinkedIn Banner (2).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,788] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Black Minimalist Corporate Professional Profile LinkedIn Banner (3).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,803] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Black Minimalist Corporate Professional Profile LinkedIn Banner.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,803] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\black rate sync ui.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\03
+[2026-03-08 22:30:41,803] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\blurred-Screenshot 2025-10-28 152649.png.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:41,813] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\BrandStation-Project-Summary.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,009] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Certification page_compressed.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,012] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\chasing never works.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:42,013] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Feb 26, 2026, 07_47_31 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:42,026] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Feb 6, 2026, 05_55_30 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:42,033] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Feb 9, 2026, 09_54_57 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:42,035] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Feb 9, 2026, 09_57_06 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:42,041] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jan 22, 2026, 08_23_49 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:42,045] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jan 23, 2026, 08_18_35 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:42,045] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 08_49_14 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,063] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_15_54 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,063] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_28_46 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,083] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_28_53 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,087] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_28_55 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,090] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_28_58 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,093] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 26, 2025, 09_01_30 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,097] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Nov 8, 2025, 12_38_01 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,097] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Oct 14, 2025, 10_18_21 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,107] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\code+files.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:42,109] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\comingSoonPage.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:42,109] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Content_Writer_Cover_Letter.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,121] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Contract Agreement - Tochukwu (1) (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,124] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Contract Agreement - Tochukwu (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,133] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Contract Agreement - Tochukwu.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,142] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\country echange.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,145] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\country exchange docs.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,147] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\couple-using-augmented-reality-smartphones.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:42,150] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\d7b0797868a6dab279d2f8d1083b8cf9.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:42,152] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Defender_Update_Setup_941644.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:42,153] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\design.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,159] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann (z-lib.org).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,167] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\desktop.ini -> C:\Users\USER\SmartVault\Organized\Archive\OldFiles
+[2026-03-08 22:30:42,168] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\django-icon-svgrepo-com.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,171] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Document from Mario.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:42,172] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\DSC00206.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,174] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\DSC00237.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,177] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\DSC00635.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,179] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\e7db9e4e33592de521b23e955084488e.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:42,189] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Edu Track Lite database schema.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ee.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,195] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\employee-working-office-interior-workplace-flat-vector-illustration.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:42,198] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\event registration.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,201] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\f13c4fe93b47b1d98db14d5f237a8686.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:42,203] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-1762612804.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,205] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-1762613105.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,207] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-1762780381.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,217] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-1762780835.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,219] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-svgrepo-com.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,221] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\FastAPI.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,224] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\favicon (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,226] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\favicon for port.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,228] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\favicon.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,232] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fcde655032f477f79a075d88c4563790.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:42,238] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fe24adbe-1a13-4a8e-9a56-1722d4d07a9d.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,241] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fintech api doc 1.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,243] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fintech api doc 2.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,245] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fintech api doc 3.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,248] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Flask.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,250] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Frame 833.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:42,253] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\frontbackend (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,253] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\frontbackend.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,253] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\frontend solana.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:42,264] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\get countries doc image.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,267] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\GlyAAvha4AAV4wr.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,270] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\gsap.min.js -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:30:42,274] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Gympact video.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2026
+[2026-03-08 22:30:42,277] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\happy-successful-female-agent.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:30:42,290] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\hng-stage-2-master.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:42,298] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\hospital ui.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:42,300] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\hospital-report-2025-11-06.json -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:30:42,301] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\How to build wealth extremely fast.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,305] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1752838006.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,307] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1756710766 (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,312] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1756710766 (2).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,415] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1756710766.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,894] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1760539616.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,894] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer-1760543342.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,894] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv specific (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,910] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv specific (2).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,916] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv specific.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,918] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv-1761317194.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,920] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv-1761734110.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,922] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv-1762611268.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,924] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv-1762612168.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:42,927] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,929] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (10).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,931] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (11).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,933] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (12).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,934] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (13).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,936] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (14).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,940] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (15).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,942] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (16).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,944] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (17).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,946] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (18).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:42,948] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (19).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,952] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (2).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,952] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (20).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,952] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (21).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,952] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (22).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,952] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (23).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,952] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (24).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,967] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (25).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,967] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (26).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,967] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (27).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,967] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (28).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,967] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (29).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,967] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (3).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:42,967] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (30).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,967] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (31).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,982] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (32).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,982] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (33).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,982] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (34).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,991] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (35).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,992] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (36).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,992] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (37).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:42,992] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (38).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,007] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (39).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,007] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (4).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:43,007] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (40).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,007] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (41).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,016] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (5).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:43,017] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (6).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:43,017] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (7).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:43,017] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (8).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:43,017] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (9).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:43,017] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:43,017] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251014-WA0014.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,032] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251014-WA0015.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,032] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251014-WA0016.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,032] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251014-WA0017.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,032] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0035.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,032] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0036.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,032] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0037.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,043] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0038.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,043] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0039.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,043] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0040.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,043] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0041.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,043] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0042.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,043] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0043.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,043] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251107-WA0038 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,057] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251107-WA0038.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,057] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251109-WA0102.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,057] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG20250128095728.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\05
+[2026-03-08 22:30:43,057] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG20250302122628.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\05
+[2026-03-08 22:30:43,057] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG20250322175646.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\05
+[2026-03-08 22:30:43,065] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20250913_133138.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:43,066] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251003_091941 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,067] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251003_091941 (2).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,067] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251003_091941.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,067] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251010_084833.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,067] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251010_143020 (1) (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,067] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251010_143020 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,082] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251015_113358.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,083] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251015_211619~2 (1) (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251015_211619~2 (1) (2).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,086] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251015_211619~2 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,086] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251105_164413 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,086] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251105_164413.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,086] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\javascript-svgrepo-com.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,092] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\jumia visual.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:43,092] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\kling_20250912_Image_to_Video_A_person_w_4252_0.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,092] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\kling_20250912_Image_to_Video_The_man_tr_4229_0.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,092] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\kling_20250912_Image_to_Video_The_woman__4144_0.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,092] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\lavera-health-nexus-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,092] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\learnmate-backend-main (1).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,092] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\learnmate-backend-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,107] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\leetcode 22.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,107] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\leetcode.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,107] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\linkedin  profile before optimization.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,107] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Linkedin Analytics before EDC challenge.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,117] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\linkedin profile after optimization.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,117] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\login.html -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:30:43,117] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Lyrics--main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,117] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\main.py -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:30:43,117] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Mano Couture The real deal for Quality African Clothes.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,117] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\mano-couture-shop-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,130] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\manucouture demo ai.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,131] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\manucouture demo.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,131] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\MayDKu5H_400x400.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,131] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\my banner for linkedin.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,131] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\my resume for productive job.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,138] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\NOTICE OF CLOSURE Dear Customers, Please be informed that The Garage will be closed on Sunday, 9th November 2025. Normal operations will resume on Monday, 10th November 2025, at 800 AM. We apologi.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,140] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\nysc first memo.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,141] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ogalandlord_Logo_Capitalized.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,142] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ogalandlord_Logo_Mixed_Case.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,142] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\pf.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,142] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\pfp.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,142] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\placeholder.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,142] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\portrait-african-american-man.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:30:43,153] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\portrait-young-man-isolated.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:30:43,153] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\post endpoint.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,156] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\PostgreSQL-Logo.wine.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,156] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\preview.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,156] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\problem_package.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,161] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\products-infinity-brochure-2019-Aug-20 (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,162] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\products-infinity-brochure-2019-Aug-20.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,163] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Profile (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,164] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Profile.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,167] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\project-0-master.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,167] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\project-bolt-github-7q3jd3d4.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,167] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\project-bolt-sb1-evidkkwy.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,167] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Pumzika roho shorts.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,175] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\python (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,178] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\python.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,181] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\quicktask api repo banner.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,181] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\repository-open-graph-template.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,185] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\result card.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,186] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\resume.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,187] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Nov 3, 2025, 3 11 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,189] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Nov 3, 2025, 3 22 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,189] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 13, 2025, 11 43 AM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 13, 2025, 3 04 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 15, 2025, 7 54 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 19, 2025, 11 34 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 29, 2025, 3 44 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-06-20 105052.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:43,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-14 185944.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-15 053513.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,205] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-15 194433.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,205] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-16 164522.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,209] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-19 075430.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,210] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-22 161615.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,211] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-23 124724.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,212] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-25 111220.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,212] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-28 152649.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,212] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-28 153123.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,212] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-31 184508.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,217] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-02 130442.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,217] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-04 195650.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,217] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-05 102634.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,217] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-06 162334.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,226] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-06 174116.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,227] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-01-18 234708.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:43,229] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-01-18 235409.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:30:43,229] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-05 084120.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,229] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-09 203842.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,229] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-09 220700.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,229] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-09 222402.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,229] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-23 194035.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,237] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-26 110445.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,238] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-03-01 171511.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\03
+[2026-03-08 22:30:43,239] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot_20251023-092322.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,240] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\script-spotlight-space-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ScrollTrigger.min.js -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Section 1 (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Section 1 (2).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Section 1.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Self-Reporting Form_Cynthia_Oluchi_Ezugwu_31.05.2025.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\smart vault code.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\03
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\smiley-man-wearing-white-shirt-medium-shot.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Social Media Content Calendar - HubSpot .zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\sql-database-generic-svgrepo-com.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stage 1 doc.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,259] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_chat_interface (1).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,260] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_chat_interface (2).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,262] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_chat_interface.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,263] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard (1).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,264] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard (2).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,265] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard (3).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,268] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard (4).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,268] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,268] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Swagger ui api pulse 1.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,268] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\swagger ui api pulse 3.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,276] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\SystemDesignInterview.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,277] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\tenancy-agreement-pwajok.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,279] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\the main (1).mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,280] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\the main.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,280] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\the wicked prince.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,280] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\thereal danmario carousel template 2  (2).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,284] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Tochukwu_Ihejirika_LinkedIn_Profile.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,286] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\unn lodge demo.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,287] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,289] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design (2).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,289] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design (3).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,292] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design (4).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,293] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,297] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled video - Made with Clipchamp.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,299] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Upperhandcreative_Brand-Manual.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,299] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\v0-unnlodge-ng-student-lodge-finder-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:30:43,302] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\VID-20251110-WA0026.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,303] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\videoplayback (2).mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,303] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\VID_20250815_121652.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,303] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\VID_20250913_220154.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,308] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Violet and Blue Gradient Modern Social Media Marketing Portfolio Presentation.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,309] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\vs code sc api pulse.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:30:43,311] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\vscode stage1.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,315] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\web developer cv.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:30:43,317] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_41f43374ae.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:43,318] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_6c5ab794a352a9c8faa4f011b2561b50dr.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:30:43,318] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_86c0ddb36d.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:43,318] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_9a782d76cc.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:43,328] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_b288cfe8a0.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:30:43,330] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_b5a05d5ecc926e4b14f479a00bd37875dr.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:30:43,331] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Why Educational Content is the Best Marketing Strategy.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,332] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Why Most People Stay Broke The Hidden Psychology of Wealth.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:30:43,333] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\yes.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:30:43,333] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\You Were Born Rich.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,038] [INFO] [main] 
+  ____                 _   _      _
+ / ___|  ___ _ __ ___ | | | | ___| |_ ___
+ \___ \ / _ \ '_ ` _ \| |_| |/ _ \ __/ _ \
+  ___) |  __/ | | | | |  _  |  __/ ||  __/
+ |____/ \___|_| |_| |_|_| |_|\___|\__\___|
+
+[2026-03-08 22:31:33,038] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\(69) Pinterest.html -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:31:33,038] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\0e1932348e197fac01b5900281a9f675.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,038] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\1000022022 (1).webp -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,053] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\1000022022.webp -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,056] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\11296154_4716573.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,059] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\11663390_20944416.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,061] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\11668321_20945194.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,063] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\12953779_Jan-Business_team_3 (1) (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,064] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\12953779_Jan-Business_team_3 (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,066] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\13744798_Mar-Business_6.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,067] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\1768233232557.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,070] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250702_1442_Black Hair Transformation_remix_01jz5nt0d3eybtmfbcvk63rw7e (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,070] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250702_1442_Black Hair Transformation_remix_01jz5nt0d3eybtmfbcvk63rw7e (2).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,070] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250702_1442_Black Hair Transformation_remix_01jz5nt0d3eybtmfbcvk63rw7e.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:31:33,070] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1451_Elegant Ancestral Whisper_simple_compose_01k3v1dp5re9nv1e1yt1457a25.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,070] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1457_Graceful Tribal Elegance_simple_compose_01k3v1r43ae3xbn34vtv95znpn.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,070] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1500_Mystic African Elegance_simple_compose_01k3v1z6cbfavtv31za4mfy2hv.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1503_Mystical Tribal Portrait_simple_compose_01k3v24fpnfr5ten6xxjejzavj.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250829_1507_Majestic River Serenade_simple_compose_01k3v2ac1tepp8cq30fnk3z3ym.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20250913_2104_Journey to Confidence_simple_compose_01k52artetf2grx787stwry857.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251009_1018_QuickTask API Banner_simple_compose_01k74457w5e5qrbt9rxzhp6pmg.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251010_1108_Futuristic AI Personality Match_simple_compose_01k76schwpedcr080rbd5gctpk.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251011_2206_Lightweight EduTrack API_simple_compose_01k7ahg0h8eqeraevc7arrrt8w.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251011_2211_AI Task Manager Design_simple_compose_01k7ahs2deezxrqmnbtypczzhs.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,084] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251011_2216_Insta Analytics Powered_simple_compose_01k7aj21cfffgb45y5vvmqh9jx.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,100] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251011_2224_Projects Dashboard Design_simple_compose_01k7ajfjf7er9sehzp3wf0e3gy.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,100] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251013_211608.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,109] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251014_0141_Elegant Web Shopping_simple_compose_01k7g2j6kveaba4b5t6c457kxj.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,109] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251031_1906_Enhanced Code Screen_remix_01k8xq2nc0ezgtsw86fh33pttk.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,109] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251107_1528_Ambient Gaming Setup_simple_compose_01k9fbf5ypfcm8vnc108v7rf2m (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,125] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\20251107_1528_Ambient Gaming Setup_simple_compose_01k9fbf5ypfcm8vnc108v7rf2m.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,125] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\2149345111.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:31:33,125] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\2b62fd8321f7441186d1fcad5f640a58.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\325d68dadac72763d00e8d5292d3dadc.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\3371ab0554c737a536a9114fbfda28de.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\34222892-e4df-4e98-8332-63c2a9bf905d (1).jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\34222892-e4df-4e98-8332-63c2a9bf905d.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\35345.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:31:33,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\5155720_2672334.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\5b8c376f-22bf-4e04-b28b-1deadfd3287c (1).jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\5b8c376f-22bf-4e04-b28b-1deadfd3287c.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,150] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\6390158-uhd_2160_3840_25fps.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,152] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\6743cf0fea0bfa1ec2693e07e7ec54e2.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,152] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\7252681-hd_1920_1080_25fps.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,152] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\962ede7aaadf9d566510c252b25dcfc0.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,152] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\96ebca68e670da4660b050df6b94172b.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,160] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\9efc1a30a4b08ae29f4d09fbbce0a617.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\03
+[2026-03-08 22:31:33,161] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\@becominghim.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,163] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\A.Knight.of.the.Seven.Kingdoms.S01E05.(THENKIRI.COM).mkv -> C:\Users\USER\SmartVault\Organized\Media\Videos\2026
+[2026-03-08 22:31:33,164] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\A.Knight.of.the.Seven.Kingdoms.S01E06.(THENKIRI.COM).mkv -> C:\Users\USER\SmartVault\Organized\Media\Videos\2026
+[2026-03-08 22:31:33,166] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\a0837e13e4134a8898798d00355d6f5c.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,168] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ad54a2736dfe0ba04095858aaf26714f.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,170] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\admin dashboard.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,173] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Aesthetic Twitter Header.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,173] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ai tools (1).mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,173] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ai tools.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,173] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\api pulse architecture (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,183] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\api pulse architecture.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,186] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\api pulse swagger 2.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,190] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\article image.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,192] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Asset 1.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,194] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Asset 2 (1).svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,195] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Asset 2.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,196] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Asset 3.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,198] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\backend.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,199] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Becoming him, the start of a journey (Mobile Video).mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,202] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Black Minimalist Corporate Professional Profile LinkedIn Banner (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,202] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Black Minimalist Corporate Professional Profile LinkedIn Banner (2).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,210] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Black Minimalist Corporate Professional Profile LinkedIn Banner (3).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,212] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Black Minimalist Corporate Professional Profile LinkedIn Banner.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,214] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\black rate sync ui.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\03
+[2026-03-08 22:31:33,216] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\blurred-Screenshot 2025-10-28 152649.png.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,218] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\BrandStation-Project-Summary.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,218] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Certification page_compressed.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,218] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\chasing never works.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,218] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Feb 26, 2026, 07_47_31 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,231] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Feb 6, 2026, 05_55_30 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,234] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Feb 9, 2026, 09_54_57 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,236] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Feb 9, 2026, 09_57_06 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,237] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jan 22, 2026, 08_23_49 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,241] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jan 23, 2026, 08_18_35 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,242] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 08_49_14 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,243] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_15_54 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,245] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_28_46 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,247] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_28_53 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,248] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_28_55 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,249] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 21, 2025, 10_28_58 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,251] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Jun 26, 2025, 09_01_30 AM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,251] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Nov 8, 2025, 12_38_01 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,251] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ChatGPT Image Oct 14, 2025, 10_18_21 PM.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,251] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\code+files.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,251] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\comingSoonPage.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,258] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Content_Writer_Cover_Letter.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,261] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Contract Agreement - Tochukwu (1) (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,266] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Contract Agreement - Tochukwu (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,267] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Contract Agreement - Tochukwu.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,269] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\country echange.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,270] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\country exchange docs.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,274] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\couple-using-augmented-reality-smartphones.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,276] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\d7b0797868a6dab279d2f8d1083b8cf9.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,276] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Defender_Update_Setup_941644.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,276] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\design.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,276] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann (z-lib.org).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,276] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\desktop.ini -> C:\Users\USER\SmartVault\Organized\Archive\OldFiles
+[2026-03-08 22:31:33,284] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\django-icon-svgrepo-com.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,285] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Document from Mario.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,287] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\DSC00206.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,288] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\DSC00237.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,290] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\DSC00635.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,291] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\e7db9e4e33592de521b23e955084488e.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,293] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Edu Track Lite database schema.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,295] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ee.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,296] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\employee-working-office-interior-workplace-flat-vector-illustration.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,298] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\event registration.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,300] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\f13c4fe93b47b1d98db14d5f237a8686.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,302] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-1762612804.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,304] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-1762613105.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,310] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-1762780381.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,312] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-1762780835.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,314] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fastapi-svgrepo-com.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,316] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\FastAPI.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,319] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\favicon (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,320] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\favicon for port.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,321] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\favicon.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,323] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fcde655032f477f79a075d88c4563790.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,325] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fe24adbe-1a13-4a8e-9a56-1722d4d07a9d.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,327] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fintech api doc 1.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,328] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fintech api doc 2.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,330] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\fintech api doc 3.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,331] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Flask.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,333] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Frame 833.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,334] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\frontbackend (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,336] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\frontbackend.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,337] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\frontend solana.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,338] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\get countries doc image.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,340] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\GlyAAvha4AAV4wr.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,340] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\gsap.min.js -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:31:33,340] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Gympact video.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2026
+[2026-03-08 22:31:33,340] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\happy-successful-female-agent.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:31:33,340] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\hng-stage-2-master.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,340] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\hospital ui.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,340] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\hospital-report-2025-11-06.json -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:31:33,355] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\How to build wealth extremely fast.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,361] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1752838006.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,363] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1756710766 (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,365] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1756710766 (2).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,367] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1756710766.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,369] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer _ Video Editor _ Social Media Strategist-1760539616.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,370] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel - Python Developer-1760543342.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,372] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv specific (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,373] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv specific (2).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,374] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv specific.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,376] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv-1761317194.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,377] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv-1761734110.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,379] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv-1762611268.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,379] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ihejirika Tochukwu Daniel cv-1762612168.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,385] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,388] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (10).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,390] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (11).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,391] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (12).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,393] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (13).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,394] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (14).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,396] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (15).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,400] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (16).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,403] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (17).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,405] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (18).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,406] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (19).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,408] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (2).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,409] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (20).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,411] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (21).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,412] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (22).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,413] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (23).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,415] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (24).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,417] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (25).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,418] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (26).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,419] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (27).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,422] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (28).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,423] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (29).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,425] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (3).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,427] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (30).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,428] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (31).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,430] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (32).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,431] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (33).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,432] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (34).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,433] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (35).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,437] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (36).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,438] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (37).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,439] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (38).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,441] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (39).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,443] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (4).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,484] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (40).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,485] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (41).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,486] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (5).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,487] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (6).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,489] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (7).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,491] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (8).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,494] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx (9).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,497] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Image_fx.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,501] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251014-WA0014.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,504] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251014-WA0015.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,508] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251014-WA0016.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,511] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251014-WA0017.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,511] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0035.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,511] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0036.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,527] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0037.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,536] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0038.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,541] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0039.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,542] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0040.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,544] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0041.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,547] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0042.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,550] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251028-WA0043.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,551] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251107-WA0038 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,551] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251107-WA0038.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,559] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG-20251109-WA0102.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,566] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG20250128095728.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\05
+[2026-03-08 22:31:33,566] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG20250302122628.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\05
+[2026-03-08 22:31:33,566] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG20250322175646.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\05
+[2026-03-08 22:31:33,566] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20250913_133138.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,566] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251003_091941 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,581] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251003_091941 (2).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,584] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251003_091941.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,585] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251010_084833.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,585] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251010_143020 (1) (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,585] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251010_143020 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,585] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251015_113358.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,585] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251015_211619~2 (1) (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,585] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251015_211619~2 (1) (2).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,585] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251015_211619~2 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,600] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251105_164413 (1).jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,600] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\IMG_20251105_164413.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,600] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\javascript-svgrepo-com.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,606] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\jumia visual.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:33,607] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\kling_20250912_Image_to_Video_A_person_w_4252_0.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,608] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\kling_20250912_Image_to_Video_The_man_tr_4229_0.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,610] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\kling_20250912_Image_to_Video_The_woman__4144_0.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,610] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\lavera-health-nexus-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,610] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\learnmate-backend-main (1).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,610] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\learnmate-backend-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,610] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\leetcode 22.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,610] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\leetcode.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,610] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\linkedin  profile before optimization.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,625] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Linkedin Analytics before EDC challenge.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,629] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\linkedin profile after optimization.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,630] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\login.html -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:31:33,630] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Lyrics--main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,630] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\main.py -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:31:33,635] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Mano Couture The real deal for Quality African Clothes.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,635] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\mano-couture-shop-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,635] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\manucouture demo ai.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,635] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\manucouture demo.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,635] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\MayDKu5H_400x400.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,635] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\my banner for linkedin.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,635] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\my resume for productive job.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,655] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\NOTICE OF CLOSURE Dear Customers, Please be informed that The Garage will be closed on Sunday, 9th November 2025. Normal operations will resume on Monday, 10th November 2025, at 800 AM. We apologi.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,656] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\nysc first memo.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,657] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ogalandlord_Logo_Capitalized.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,661] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Ogalandlord_Logo_Mixed_Case.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,661] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\pf.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,661] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\pfp.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,661] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\placeholder.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,661] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\portrait-african-american-man.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:31:33,661] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\portrait-young-man-isolated.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:31:33,661] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\post endpoint.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,676] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\PostgreSQL-Logo.wine.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,676] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\preview.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,676] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\problem_package.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,686] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\products-infinity-brochure-2019-Aug-20 (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,686] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\products-infinity-brochure-2019-Aug-20.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,686] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Profile (1).pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,686] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Profile.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,686] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\project-0-master.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,686] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\project-bolt-github-7q3jd3d4.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,686] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\project-bolt-sb1-evidkkwy.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,701] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Pumzika roho shorts.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,706] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\python (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,708] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\python.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,709] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\quicktask api repo banner.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,711] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\repository-open-graph-template.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,711] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\result card.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,711] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\resume.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,711] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Nov 3, 2025, 3 11 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,711] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Nov 3, 2025, 3 22 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,711] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 13, 2025, 11 43 AM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,727] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 13, 2025, 3 04 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,727] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 15, 2025, 7 54 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,732] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 19, 2025, 11 34 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,733] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenity video - Oct 29, 2025, 3 44 PM.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:33,733] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-06-20 105052.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:33,736] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-14 185944.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,736] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-15 053513.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,736] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-15 194433.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,736] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-16 164522.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,745] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-19 075430.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,748] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-22 161615.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,749] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-23 124724.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,750] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-25 111220.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,750] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-28 152649.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,753] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-28 153123.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,755] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-10-31 184508.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,756] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-02 130442.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,757] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-04 195650.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,758] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-05 102634.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,761] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-06 162334.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,761] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2025-11-06 174116.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:33,761] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-01-18 234708.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,761] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-01-18 235409.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\01
+[2026-03-08 22:31:33,761] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-05 084120.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,772] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-09 203842.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,773] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-09 220700.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,774] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-09 222402.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,775] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-23 194035.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,777] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-02-26 110445.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:33,778] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot 2026-03-01 171511.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\03
+[2026-03-08 22:31:33,779] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Screenshot_20251023-092322.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:33,781] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\script-spotlight-space-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:33,781] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\ScrollTrigger.min.js -> C:\Users\USER\SmartVault\Organized\Code
+[2026-03-08 22:31:33,787] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Section 1 (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,787] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Section 1 (2).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,837] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Section 1.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\08
+[2026-03-08 22:31:33,876] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Self-Reporting Form_Cynthia_Oluchi_Ezugwu_31.05.2025.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:33,918] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\smart vault code.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\03
+[2026-03-08 22:31:33,974] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\smiley-man-wearing-white-shirt-medium-shot.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\07
+[2026-03-08 22:31:34,005] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Social Media Content Calendar - HubSpot .zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,013] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\sql-database-generic-svgrepo-com.svg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:34,016] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stage 1 doc.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:34,020] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_chat_interface (1).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,022] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_chat_interface (2).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,024] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_chat_interface.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,026] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard (1).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,028] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard (2).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,030] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard (3).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,031] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard (4).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,053] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\stitch_hospital_dashboard.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,070] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Swagger ui api pulse 1.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:34,071] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\swagger ui api pulse 3.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:34,072] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\SystemDesignInterview.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:34,073] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\tenancy-agreement-pwajok.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:34,074] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\the main (1).mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,077] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\the main.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,078] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\the wicked prince.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,079] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\thereal danmario carousel template 2  (2).zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,080] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Tochukwu_Ihejirika_LinkedIn_Profile.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:34,082] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\unn lodge demo.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,082] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design (1).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:34,082] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design (2).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:34,087] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design (3).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:34,087] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design (4).png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:34,087] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled design.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:34,087] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Untitled video - Made with Clipchamp.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,087] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Upperhandcreative_Brand-Manual.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:34,087] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\v0-unnlodge-ng-student-lodge-finder-main.zip -> C:\Users\USER\SmartVault\Organized\Archives
+[2026-03-08 22:31:34,087] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\VID-20251110-WA0026.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,102] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\videoplayback (2).mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,102] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\VID_20250815_121652.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,102] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\VID_20250913_220154.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,102] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Violet and Blue Gradient Modern Social Media Marketing Portfolio Presentation.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:34,112] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\vs code sc api pulse.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2026\02
+[2026-03-08 22:31:34,114] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\vscode stage1.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:34,116] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\web developer cv.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
+[2026-03-08 22:31:34,120] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_41f43374ae.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:34,122] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_6c5ab794a352a9c8faa4f011b2561b50dr.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\09
+[2026-03-08 22:31:34,124] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_86c0ddb36d.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:34,129] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_9a782d76cc.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:34,129] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_b288cfe8a0.jpg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\06
+[2026-03-08 22:31:34,131] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Whisk_b5a05d5ecc926e4b14f479a00bd37875dr.jpeg -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\11
+[2026-03-08 22:31:34,133] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Why Educational Content is the Best Marketing Strategy.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,135] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\Why Most People Stay Broke The Hidden Psychology of Wealth.mp4 -> C:\Users\USER\SmartVault\Organized\Media\Videos\2025
+[2026-03-08 22:31:34,137] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\yes.png -> C:\Users\USER\SmartVault\Organized\Media\Images\2025\10
+[2026-03-08 22:31:34,140] [INFO] [organizer] [DRY RUN] Would move C:\Users\USER\Downloads\You Were Born Rich.pdf -> C:\Users\USER\SmartVault\Organized\Documents\PDFs
