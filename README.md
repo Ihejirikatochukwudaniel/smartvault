@@ -1,145 +1,486 @@
-# ███████╗███╗   ███╗ █████╗ ██████╗ ███████╗██████╗ ██╗   ██╗
-# ██╔════╝████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔══██╗╚██╗ ██╔╝
-# █████╗  ██╔████╔██║███████║██████╔╝█████╗  ██████╔╝ ╚████╔╝ 
-# ██╔══╝  ██║╚██╔╝██║██╔══██║██╔══██╗██╔══╝  ██╔══██╗  ╚██╔╝  
-# ██║     ██║ ╚═╝ ██║██║  ██║██║  ██║███████╗██║  ██║   ██║   
-# ╚═╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   
+```
+  ██████  ███▄ ▄███▓ ▄▄▄       ██▀███  ▄▄▄█████▓ ██▒   █▓ ▄▄▄       █    ██  ██▓ ▄▄▄█████▓
+▒██    ▒ ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒▓  ██▒ ▓▒▓██░   █▒▒████▄     ██  ▓██▒▓██▒ ▓  ██▒ ▓▒
+░ ▓██▄   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▒ ▓██░ ▒░ ▓██  █▒░▒██  ▀█▄  ▓██  ▒██░▒██░ ▒ ▓██░ ▒░
+  ▒   ██▒▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ░ ▓██▓ ░   ▒██ █░░░██▄▄▄▄██ ▓▓█  ░██░▒██░ ░ ▓██▓ ░ 
+▒██████▒▒▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒  ▒██▒ ░    ▒▀█░   ▓█   ▓██▒▒▒█████▓ ░██████▒▒██▒ ░ 
+▒ ▒▓▒ ▒ ░░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░  ▒ ░░      ░ ▐░   ▒▒   ▓▒█░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒ ░░   
+░ ░▒  ░ ░░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░    ░       ░ ░░    ▒   ▒▒ ░░░▒░ ░ ░ ░ ░ ▒  ░  ░    
+░  ░  ░  ░      ░     ░   ▒     ░░   ░   ░           ░░    ░   ▒    ░░░ ░ ░   ░ ░   ░      
+      ░         ░         ░  ░   ░                    ░        ░  ░   ░         ░  ░ ░      
+```
 
-[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
-[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![code style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
-[![tests](https://img.shields.io/badge/tests-passing-brightgreen)](#)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-orange)](#)
+<div align="center">
 
-SmartVault is an intelligent file organization system that automatically
-watches directories, classifies files using configurable rules, handles
-duplicates, and generates detailed reports.
+**An intelligent, rule-based file organization system built with Python**  
+*Watches. Classifies. Organizes. Reports. All automatically.*
 
-## Table of Contents
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
+[![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-000000?style=for-the-badge)](https://github.com/psf/black)
+[![Tests](https://img.shields.io/badge/Tests-Passing-22c55e?style=for-the-badge&logo=pytest&logoColor=white)](#-running-tests)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-f97316?style=for-the-badge)](CONTRIBUTING.md)
 
-1. [Features](#features)
-2. [Project Structure](#project-structure)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [How It Works](#how-it-works)
-6. [Configuration](#configuration)
-7. [Rule Matching Logic](#rule-matching-logic)
-8. [Running Tests](#running-tests)
-9. [Sample Report](#sample-report)
-10. [Roadmap](#roadmap)
-11. [Contributing](#contributing)
-12. [License](#license)
+[Quick Start](#-installation) · [Usage Guide](#-usage) · [Configuration](#-configuration) · [Report Demo](#-sample-report) · [Roadmap](#-roadmap)
+
+</div>
+
+---
+
+## 📖 Overview
+
+SmartVault solves a universal problem: **your file system is a mess, and organizing it manually is a waste of your time.**
+
+Drop a file into your Downloads folder — SmartVault instantly classifies it, moves it to the right destination, dates it correctly, and logs everything. It runs silently in the background as a real-time watcher, or on-demand as a scanner. It detects duplicates, generates visual reports, and never does anything you haven't approved first via dry-run.
+
+Built to production standards: type hints throughout, config-driven behavior, modular architecture, and full test coverage.
+
+---
 
 ## ✨ Features
 
-- 🗂️ Watch a directory and automatically organize new files
-- 🧠 Rule-based classification with extensions, keywords, and age
-- 🔍 Detect and handle duplicate files with hashing
-- 📄 Generate HTML and CSV reports with stats and results
-- ⚙️ Fully configurable via `config.yaml` with dynamic paths
-- 🔁 Dry-run mode for safe simulation
+| Feature | Description |
+|---|---|
+| 🔭 **Real-time Watching** | Monitors directories via filesystem events — zero polling, instant response |
+| 🧠 **Smart Rule Engine** | Matches files by extension, filename keywords, and age with priority ordering |
+| 📅 **Dynamic Date Paths** | Destinations like `Media/Images/{YYYY}/{MM}` resolve automatically from file metadata |
+| 🔍 **Duplicate Detection** | SHA-256 content hashing finds identical files regardless of name |
+| 📊 **Rich Reports** | Generates dark-themed HTML reports and CSV exports after every run |
+| 🔁 **Dry-Run Mode** | Preview every action before a single file is touched |
+| ⚙️ **YAML Configuration** | All behavior driven by `config.yaml` — no code changes needed |
+| 🪵 **Structured Logging** | Rotating log files with colored terminal output via `colorlog` |
+| 🧪 **Full Test Suite** | `pytest` + `pytest-cov` covering organizer, rules engine, and duplicate finder |
+
+---
 
 ## 🏗️ Project Structure
 
 ```
 SmartVault/
-├── main.py
-├── config.yaml
-├── requirements.txt
+│
+├── main.py                        ← CLI entry point; wires all modules together
+├── config.yaml                    ← All runtime behavior configured here
+├── requirements.txt               ← Pinned dependencies
 ├── README.md
 ├── .gitignore
-├── smartvault/
+│
+├── smartvault/                    ← Core library package
 │   ├── __init__.py
-│   ├── watcher.py
-│   ├── organizer.py
-│   ├── duplicate_finder.py
-│   ├── rules_engine.py
-│   ├── reporter.py
-│   └── logger.py
+│   ├── watcher.py                 ← Watchdog filesystem event handler + Observer
+│   ├── organizer.py               ← File moving logic; returns OrganizeResult objects
+│   ├── duplicate_finder.py        ← SHA-256 hashing, DuplicateFinder, DuplicateSummary
+│   ├── rules_engine.py            ← Rule dataclass + RulesEngine matching logic
+│   ├── reporter.py                ← HTML (Jinja2) + CSV report generation
+│   └── logger.py                  ← RotatingFileHandler + colorlog setup
+│
 ├── templates/
-│   └── report.html.j2
-├── logs/
+│   └── report.html.j2             ← Dark-themed Jinja2 HTML report template
+│
+├── logs/                          ← Auto-populated; gitignored except .gitkeep
 │   └── .gitkeep
-├── reports/
+│
+├── reports/                       ← Auto-populated; gitignored except .gitkeep
 │   └── .gitkeep
+│
 └── tests/
     ├── __init__.py
-    ├── test_organizer.py
-    ├── test_duplicate_finder.py
-    └── test_rules_engine.py
+    ├── test_organizer.py          ← dry-run, move, result fields
+    ├── test_duplicate_finder.py   ← hash consistency, dupe detection
+    └── test_rules_engine.py       ← extension, keyword, date token, no-match
 ```
 
-*(annotations omitted for brevity)*
+---
 
 ## ⚙️ Installation
 
+**Prerequisites:** Python 3.11 or higher
+
 ```bash
-git clone <repo-url> smartvault
+# 1. Clone the repository
+git clone https://github.com/yourusername/smartvault.git
 cd smartvault
+
+# 2. Create and activate a virtual environment
 python -m venv venv
-source venv/bin/activate  # or .\venv\Scripts\activate on Windows
+
+# Windows
+venv\Scripts\activate
+
+# macOS / Linux
+source venv/bin/activate
+
+# 3. Install dependencies
 pip install -r requirements.txt
 ```
 
+**Verify installation:**
+```bash
+python main.py --help
+```
+
+You should see the SmartVault ASCII banner and the full command reference.
+
+---
+
 ## 🚀 Usage
 
+### Commands at a Glance
+
+```
+python main.py <command> [options]
+
+Commands:
+  watch     Monitor a directory in real-time
+  scan      Organize an existing directory once
+  dupes     Find and handle duplicate files
+  report    Open or list generated reports
+```
+
+---
+
+### `watch` — Real-Time Organization
+
+Start the background watcher. Every new file that lands in the directory is instantly classified and moved.
+
 ```bash
+# Watch your Downloads folder
 python main.py watch ~/Downloads
+
+# Simulate — see what would happen without moving anything
+python main.py watch ~/Downloads --dry-run
+
+# Use a custom config file
+python main.py watch ~/Downloads --config /path/to/custom_config.yaml
+```
+
+> Press `Ctrl+C` to stop the watcher gracefully.
+
+---
+
+### `scan` — One-Time Organization
+
+Run a single pass over an existing directory. Ideal for first-time setup or periodic cleanup.
+
+```bash
+# Basic scan
+python main.py scan ~/Downloads
+
+# Recursive scan (includes subdirectories) + HTML/CSV report
 python main.py scan ~/Downloads --recursive --report
+
+# Full audit: scan + duplicate check + report, no changes made
+python main.py scan ~/Downloads --recursive --check-dupes --report --dry-run
+```
+
+---
+
+### `dupes` — Duplicate Management
+
+Scan for duplicate files using content hashing (SHA-256). Operates independently of the rule engine.
+
+```bash
+# Report only — list all duplicates, touch nothing
+python main.py dupes ~/Downloads --action report
+
+# Delete duplicates (keeps the newest copy)
 python main.py dupes ~/Downloads --action delete
+
+# Move duplicates to a holding folder
+python main.py dupes ~/Downloads --action move
+
+# Always preview first
+python main.py dupes ~/Downloads --action delete --dry-run
+```
+
+---
+
+### `report` — View Reports
+
+```bash
+# Open the most recent report in your browser
 python main.py report --last
 ```
 
-Each command supports `--dry-run` and custom `--config`.
+---
 
 ## 🗂️ How It Works
 
-```text
-File Created → Watcher → Rules Engine → Organizer → Reporter
 ```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        SmartVault Pipeline                          │
+└─────────────────────────────────────────────────────────────────────┘
+
+  New File Detected
+        │
+        ▼
+┌───────────────┐     ┌───────────────┐     ┌───────────────┐
+│    Watcher    │────▶│  Rules Engine │────▶│   Organizer   │
+│  (watchdog)   │     │  (rules_engine│     │  (organizer)  │
+│               │     │  .py)         │     │               │
+│ • Filesystem  │     │ • Extension   │     │ • Move file   │
+│   events      │     │   match       │     │ • Dry-run     │
+│ • Debounce    │     │ • Keyword     │     │   support     │
+│   500ms       │     │   match       │     │ • Error       │
+│ • Skip hidden │     │ • Age check   │     │   handling    │
+│   & temp      │     │ • Date token  │     │ • Returns     │
+│   files       │     │   resolution  │     │   result obj  │
+└───────────────┘     └───────────────┘     └───────────────┘
+                                                    │
+                                                    ▼
+                                          ┌───────────────┐
+                                          │   Reporter    │
+                                          │  (reporter.py)│
+                                          │               │
+                                          │ • HTML report │
+                                          │ • CSV export  │
+                                          │ • Dupe summary│
+                                          │ • Space saved │
+                                          └───────────────┘
+                                                    │
+                                                    ▼
+                                          ┌───────────────┐
+                                          │    Logger     │
+                                          │  (logger.py)  │
+                                          │               │
+                                          │ • Rotating    │
+                                          │   log file    │
+                                          │ • Colored     │
+                                          │   terminal    │
+                                          └───────────────┘
+```
+
+---
 
 ## 📋 Configuration
 
-| Field             | Type   | Default                 | Description                        |
-|-------------------|--------|-------------------------|------------------------------------|
-| watch_directory   | str    | `~/Downloads`           | Directory to monitor              |
-| output_directory  | str    | `~/SmartVault/Organized`| Destination root for organized files|
-| dry_run           | bool   | false                   | Simulate actions only              |
-| duplicate_action  | str    | report                  | `report`/`delete`/`move`           |
-| log_level         | str    | INFO                    | Logging level                      |
-| log_max_bytes     | int    | 5242880                 | Max size for log rotation          |
-| log_backup_count  | int    | 3                       | Rotated file count                 |
-| rules             | list   | []                      | Rule definitions                   |
+All behavior is controlled by `config.yaml`. No code changes required.
+
+```yaml
+# config.yaml — full reference
+
+watch_directory: ~/Downloads           # Directory to monitor or scan
+output_directory: ~/SmartVault/Organized  # Root destination for organized files
+dry_run: false                         # true = simulate only, no files moved
+duplicate_action: report               # report | delete | move
+log_level: INFO                        # DEBUG | INFO | WARNING | ERROR
+log_max_bytes: 5242880                 # 5MB — max size before log rotation
+log_backup_count: 3                    # number of rotated log files to keep
+
+rules:
+  - name: "Invoice PDFs"              # Checked BEFORE generic PDFs (keyword priority)
+    extensions: [.pdf]
+    keywords: ["invoice", "receipt", "bill"]
+    destination: Finance/Invoices
+
+  - name: "PDF Documents"
+    extensions: [.pdf]
+    destination: Documents/PDFs
+
+  - name: "Images"
+    extensions: [.jpg, .jpeg, .png, .gif, .webp, .svg]
+    destination: Media/Images/{YYYY}/{MM}   # ← dynamic date tokens
+
+  - name: "Videos"
+    extensions: [.mp4, .mov, .avi, .mkv]
+    destination: Media/Videos/{YYYY}
+
+  - name: "Code Files"
+    extensions: [.py, .js, .ts, .html, .css, .json, .yaml, .yml]
+    destination: Code
+
+  - name: "Archives"
+    extensions: [.zip, .tar, .gz, .rar, .7z]
+    destination: Archives
+
+  - name: "Old Files"               # Age-based rule — no extension needed
+    age_days: 365
+    destination: Archive/OldFiles
+```
+
+### Configuration Reference
+
+| Field | Type | Default | Description |
+|---|---|---|---|
+| `watch_directory` | `str` | `~/Downloads` | Target directory to monitor or scan |
+| `output_directory` | `str` | `~/SmartVault/Organized` | Root folder for all organized files |
+| `dry_run` | `bool` | `false` | When `true`, logs actions but moves nothing |
+| `duplicate_action` | `str` | `report` | How to handle duplicates: `report`, `delete`, or `move` |
+| `log_level` | `str` | `INFO` | Python logging level |
+| `log_max_bytes` | `int` | `5242880` | Max log file size before rotation (bytes) |
+| `log_backup_count` | `int` | `3` | Number of backup log files to keep |
+| `rules` | `list` | `[]` | Ordered list of classification rules |
+
+### Rule Fields
+
+| Field | Type | Required | Description |
+|---|---|---|---|
+| `name` | `str` | ✅ | Human-readable rule name (used in logs and reports) |
+| `destination` | `str` | ✅ | Path relative to `output_directory`. Supports `{YYYY}`, `{MM}`, `{DD}` |
+| `extensions` | `list[str]` | ❌ | File extensions to match (include the dot: `.pdf`) |
+| `keywords` | `list[str]` | ❌ | Substrings to match in the filename (case-insensitive) |
+| `age_days` | `int` | ❌ | Minimum file age in days. File must be at least this old |
+
+---
 
 ## 🔁 Rule Matching Logic
 
+Rules are evaluated **in order**. The first rule that matches wins.
+
 ```
-[extension] → [keyword] → [age]
+                    ┌─────────────────────────┐
+                    │   For each rule in       │
+                    │   config (top to bottom) │
+                    └────────────┬────────────┘
+                                 │
+                    ┌────────────▼────────────┐
+                    │  Rule has extensions?   │
+                    └────────────┬────────────┘
+                          Yes    │    No (skip check)
+                    ┌────────────▼────────────┐
+                    │  File extension match?  │
+                    └────────────┬────────────┘
+                        Match    │    No match → next rule
+                    ┌────────────▼────────────┐
+                    │  Rule has keywords?     │
+                    └────────────┬────────────┘
+                          Yes    │    No (skip check)
+                    ┌────────────▼────────────┐
+                    │  Keyword in filename?   │
+                    └────────────┬────────────┘
+                        Match    │    No match → next rule
+                    ┌────────────▼────────────┐
+                    │  Rule has age_days?     │
+                    └────────────┬────────────┘
+                          Yes    │    No (skip check)
+                    ┌────────────▼────────────┐
+                    │  File old enough?       │
+                    └────────────┬────────────┘
+                        Match    │    No match → next rule
+                    ┌────────────▼────────────┐
+                    │  ✅ RULE MATCHED         │
+                    │  Resolve destination    │
+                    │  {YYYY}/{MM}/{DD} →     │
+                    │  file's mtime           │
+                    └─────────────────────────┘
+
+  If no rule matches → file is SKIPPED (not moved, logged as unmatched)
 ```
+
+**Tip:** Put specific rules (with keywords) **before** generic ones (extension only). The `Invoice PDFs` rule must come before `PDF Documents` or invoice files will be caught by the generic rule first.
+
+---
 
 ## 🧪 Running Tests
 
 ```bash
+# Run all tests
+pytest tests/
+
+# Run with coverage report
 pytest tests/ --cov=smartvault
+
+# Run with detailed coverage (shows uncovered lines)
+pytest tests/ --cov=smartvault --cov-report=term-missing
+
+# Run a specific test file
+pytest tests/test_rules_engine.py -v
+
+# Run a specific test
+pytest tests/test_organizer.py::test_organize_file_dry_run -v
 ```
+
+### Test Coverage
+
+| Module | Tests |
+|---|---|
+| `organizer.py` | dry-run validation, file move, result field integrity |
+| `duplicate_finder.py` | hash consistency, identical file detection, empty directory |
+| `rules_engine.py` | extension match, keyword priority, date token resolution, no-match fallback |
+
+---
 
 ## 📊 Sample Report
 
+After running `python main.py scan ~/Downloads --report`, open the generated HTML report:
+
 ```
-[SmartVault Report mockup]
-... (ASCII art or description of layout)
+╔══════════════════════════════════════════════════════════════════╗
+║                    🗄  SmartVault Report                        ║
+║              Run: 2026-03-08 22:30:41  │  Duration: 2.1s        ║
+╠══════════╦═══════════╦═══════════╦═════════════════════════════╣
+║  📁 247  ║  ✅ 241   ║  ⏭  6    ║  ❌ 0                       ║
+║ Processed║  Moved    ║  Skipped  ║  Errors                     ║
+╠══════════╩═══════════╩═══════════╩═════════════════════════════╣
+║  🔍 Duplicates: 12 groups │ 28 files │ 847 MB wasted           ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Source                     │ Destination           │ Status     ║
+╠══════════════════════════════════════════════════════════════════╣
+║ resume.pdf                 │ Documents/PDFs        │ ✅ moved   ║
+║ Image_fx (1).jpg           │ Media/Images/2025/06  │ ✅ moved   ║
+║ manucouture demo.mp4       │ Media/Videos/2025     │ ✅ moved   ║
+║ learnmate-backend.zip      │ Archives              │ ✅ moved   ║
+║ main.py                    │ Code                  │ ✅ moved   ║
+║ ...                        │ ...                   │ ...        ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+The actual report is a full dark-themed HTML page with color-coded rows, statistics cards, and a complete file-by-file results table. A companion `.csv` is generated alongside it for spreadsheet analysis.
+
+---
 
 ## 🗺️ Roadmap
 
-- 🔒 Support encryption for stored rules
-- ☁️ Cloud synchronization
-- 🧩 Plugin system for custom rules
+- [ ] 🖥️ **Web Dashboard** — live browser UI showing watcher activity and stats in real-time
+- [ ] ☁️ **Cloud Sync** — push organized files to S3, Google Drive, or Dropbox
+- [ ] 🤖 **AI Classification** — use an LLM to classify files with no extension or ambiguous names
+- [ ] 🔒 **Encrypted Rules** — protect sensitive rule configurations with AES encryption
+- [ ] 🧩 **Plugin System** — drop-in Python modules for custom classification logic
+- [ ] 📱 **Desktop Notifications** — OS-level alerts when files are moved or duplicates found
+- [ ] 📦 **PyPI Package** — `pip install smartvault` + global CLI command
+- [ ] 🗃️ **SQLite Audit Log** — persistent database of every file operation for compliance use cases
+
+---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please open issues or pull requests.
+Contributions are welcome and appreciated. Here's how to get started:
+
+```bash
+# Fork the repo and clone your fork
+git clone https://github.com/yourusername/smartvault.git
+cd smartvault
+
+# Create a feature branch
+git checkout -b feature/your-feature-name
+
+# Make your changes, then run tests
+pytest tests/ --cov=smartvault
+
+# Commit with a conventional commit message
+git commit -m "feat: add support for MIME type detection"
+
+# Push and open a pull request
+git push origin feature/your-feature-name
+```
+
+**Guidelines:**
+- All new code must include type hints and Google-style docstrings
+- All new features must include corresponding tests
+- Run `black .` before committing to maintain code style
+- Keep `dry_run` respected in any new write operations
+
+---
 
 ## 📄 License
 
-MIT License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+Built with 🐍 Python · Designed for developers who value clean systems
+
+**[⬆ Back to top](#)**
+
+</div>
